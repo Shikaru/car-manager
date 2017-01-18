@@ -8,7 +8,7 @@
 	<?php include '/headerv02.php';?>
 	<br>
 	<div id="header">
-	<a href="../">Home</a>
+	<a href="/car-manager">Home</a>
 	<a href="/mgmVehicle.php">Administracion de Vehiculos</a>
 	<a href="<?php echo $_SERVER['HTTP_REFERER'];?>">Regresar</a>
 	</div><!--header-->

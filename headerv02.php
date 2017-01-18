@@ -76,7 +76,7 @@
 
 	<div id="header">
 		<ul class="nav">
-			<li><a id="bHome" href="../">Home</a></li>
+			<li><a id="bHome" href="/car-manager">Home</a></li>
 			<li><a href="#">Registros</a>
 				<ul>
 					<li><a href="/Vehicles/addVehicle.php">Vehiculos</a></li>
