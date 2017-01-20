@@ -1,0 +1,80 @@
+	* {
+				margin:0px;
+				padding:0px;
+				color:#d6d8dd;
+		}
+		body {
+    background-color: #212326;
+	}
+
+h1,legend ,fieldset{
+    color: #d6d8dd;
+	
+}
+input {
+    background-color: #484C55;
+	color:#d6d8dd;
+	
+}
+/*
+a:link, a:visited, a:hover, a:active{
+	display: inline-block;
+    //font-weight: bold;
+	color: #ffffff;
+    background-color: #98bf21;
+    //width: 120px;
+    text-align: center;
+    padding: 4px;
+    text-decoration: none;
+	//margin: 30px;
+	text-decoration: none;
+}
+*/
+
+#wall{
+		position: absolute;
+	top:0;
+	left:0;
+	right:0;
+	bottom:0;
+	margin: auto;
+	height:90%;
+	width: 90%;
+	background-color: #181B21;
+	}
+#work_area
+{
+	margin:auto;
+	width: 90%;
+	height:90%;
+	//background-color: lightblue;
+}
+
+#formulario
+{
+	vertical-align: top;
+	//top:50px;
+	text-align: top;
+	//width:250px;
+	text-align: left;
+//	display: block;
+//	background-color: rgba(0,0,0,0.2);
+	 
+}
+
+#vehiclesTable
+{
+
+    
+
+}
+
+td.aligntotop{
+	vertical-align: top;
+	
+}
+
+
+  
+
+	 
