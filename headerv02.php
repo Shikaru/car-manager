@@ -80,7 +80,7 @@
 			<li><a href="#">Registros</a>
 				<ul>
 					<li><a href="Vehicles/addVehicle.php">Vehiculos</a></li>
-					<li><a href="/CarDrivers">Choferes</a></li>
+					<li><a href="./CarDrivers">Choferes</a></li>
 				</ul>
 			</li>
 			<li><a href="<?php echo $_SERVER['HTTP_REFERER'];?>">Regresar</a></li>
